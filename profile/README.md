@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi 👋 Here is PKU EMBL
 
 
-**Here are some ideas to get you started:**
+研究方向聚焦于极端环境微生物资源挖掘（尤其是盐、酸、碱水生态系统），致力于发现具有潜在功能的未知微生物类群及生物活性物质合成基因簇，并通过培育与生物合成技术实现应用转化。为实现该目标，课题组主要开展以下工作：
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+1. 技术创新：开发融合分子生物学与人工智能的微生物组学技术及生物信息学方法；
+   
+3. 系统构建：建立宏基因组与宏转录组分析算法、数据库、分析流程及可视化平台；
+   
+5. 多组学整合：结合代谢组学、培养组学及基因操作技术，实现对极端环境微生物资源及生物合成基因簇的精准识别与高效培育。
 
