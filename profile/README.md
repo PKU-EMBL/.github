@@ -40,3 +40,5 @@ To achieve these goals, the group primarily conducts work in the following areas
 ----
 
 Lab Website: [PKU EMBL LAB](https://embl-pku.github.io)
+
+Google Scholar: [Publications](https://scholar.google.com/citations?hl=en&user=FunfWVAAAAAJ)
