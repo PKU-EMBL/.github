@@ -9,6 +9,17 @@
    
 3. 多组学整合：结合代谢组学、培养组学及基因操作技术，实现对极端环境微生物资源及生物合成基因簇的精准识别与高效培育。
 
+**Research Focus** Our research focuses on **mining microbial resources in extreme environments (specifically hypersaline, acidic, and alkaline ecosystems)**. We are dedicated to discovering unknown microbial taxa with potential functions and **biosynthetic gene clusters (BGCs)** for bioactive substances, achieving application and translation through cultivation and biosynthetic technologies.
+
+To achieve these goals, the group primarily conducts work in the following areas:
+
+1. **Technological Innovation**: Developing microbiomics technologies and bioinformatics methods that integrate molecular biology and artificial intelligence (AI).
+
+2. **System Construction**: Establishing analysis algorithms, databases, processing pipelines, and visualization platforms for metagenomics and metatranscriptomics.
+
+3. **Multi-omics Integration**: Combining metabolomics, culturomics, and genetic manipulation techniques to achieve precise identification and efficient cultivation of microbial resources and BGCs from extreme environments.
+
+
 ----
 
 研究关注于极端环境及人体系统的微生物，开发
@@ -18,3 +29,11 @@
 2）基于人工智能技术的多宏组软件、算法及分析流程开发
 
 3）多组学高精度数据解析和定向富集培养技术，以此发掘地球演化过程中的特殊微生物类群及其在特殊生物制剂生产、环境修复与改造中的应用潜能
+
+**Key Research Areas** Focusing on microorganisms in both extreme environments and human systems, we develop:
+
+1) **Enrichment and sequencing technologies** for trace amounts of genetic material.
+
+2) **Multi-omics software, algorithms, and analysis pipelines** based on artificial intelligence.
+
+3) **High-precision multi-omics data interpretation and directed enrichment cultivation technologies**. These are used to discover unique microbial taxa related to Earth's evolutionary history and to explore their application potential in the production of specialized biological agents, environmental remediation, and ecosystem modification.
