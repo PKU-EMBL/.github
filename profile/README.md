@@ -39,4 +39,4 @@ To achieve these goals, the group primarily conducts work in the following areas
 
 ----
 
-Lab Website: [https://embl-pku.github.io](embl-pku.github.io)
+Lab Website: [PKU EMBL LAB](https://embl-pku.github.io)
