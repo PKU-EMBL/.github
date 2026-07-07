@@ -1,5 +1,3 @@
-## Hi 👋 Here is PKU EMBL
-
 Our research focuses on **mining microbial resources in extreme environments (specifically hypersaline, acidic, and alkaline ecosystems)**. We are dedicated to discovering unknown microbial taxa with potential functions and **biosynthetic gene clusters (BGCs)** for bioactive substances, achieving application and translation through cultivation and biosynthetic technologies.
 
 To achieve these goals, the group primarily conducts work in the following areas:
