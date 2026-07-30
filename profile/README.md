@@ -1,17 +1,9 @@
-Our research focuses on **mining microbial resources in extreme environments (specifically hypersaline, acidic, and alkaline ecosystems)**. We are dedicated to discovering unknown microbial taxa with potential functions and **biosynthetic gene clusters (BGCs)** for bioactive substances, achieving application and translation through cultivation and biosynthetic technologies.
+PKU-EMBL Lab (Environmental Microbiome Biotechnology Lab) 北京大学环境微生物生物技术实验室
 
-To achieve these goals, the group primarily conducts work in the following areas:
+The PKU-EMBL Lab develops a high-throughput pipeline that transforms environmental microbial "dark matter" (微生物“暗物质”) into computable knowledge. Focusing on extreme habitats characterized by high salinity, high alkalinity, or low temperature, we develop molecular biology technologies and intelligent analytical methods for systematic microbial genome reconstruction and functional annotation.
 
-1. **Technological Innovation**: Developing microbiomics technologies and bioinformatics methods that integrate molecular biology and artificial intelligence (AI).
+1. **Functional genomics** : We develop highly sensitive, deep-learning-enabled methods and supporting algorithms to recover and characterize low-abundance functional guilds and their genomes that are readily missed by conventional workflows. By combining protein and genome language models, we identify novel enzymes, distantly related functional genes, metabolic gene clusters, and environmental adaptation elements that are difficult to detect through traditional homology searches.
 
-2. **System Construction**: Establishing analysis algorithms, databases, processing pipelines, and visualization platforms for metagenomics and metatranscriptomics.
+2. **Metabolic reaction networks**: Using minimal biochemical reaction units as building blocks, we construct knowledge graphs that connect genes, enzymes, substrates, products, and reactions. We integrate knowledge-graph reasoning with vector-database-based semantic retrieval of multi-omics evidence and develop a collaborative multi-agent reasoning framework for the automated discovery, feasibility assessment, and experimental validation of novel metabolic pathways.
 
-3. **Multi-omics Integration**: Combining metabolomics, culturomics, and genetic manipulation techniques to achieve precise identification and efficient cultivation of microbial resources and BGCs from extreme environments.
-
-**Key Research Areas** Focusing on microorganisms in both extreme environments and human systems, we develop:
-
-1) **Enrichment and sequencing technologies** for trace amounts of genetic material.
-
-2) **Multi-omics software, algorithms, and analysis pipelines** based on artificial intelligence.
-
-3) **High-precision multi-omics data interpretation and directed enrichment cultivation technologies**. These are used to discover unique microbial taxa related to Earth's evolutionary history and to explore their application potential in the production of specialized biological agents, environmental remediation, and ecosystem modification.
+3. **Microbial community interactions and control**: Starting from metagenome-resolved community structure, we integrate functional genes, metabolite exchange, and environmental factors to build computable world models of microbial communities. These models are designed to predict community interactions, state transitions, and responses to targeted interventions.
