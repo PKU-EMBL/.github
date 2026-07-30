@@ -1,6 +1,4 @@
-PKU-EMBL Lab (Environmental Microbiome Biotechnology Lab) 北京大学环境微生物生物技术实验室
-
-The PKU-EMBL Lab develops a high-throughput pipeline that transforms environmental microbial "dark matter" (微生物“暗物质”) into computable knowledge. Focusing on extreme habitats characterized by high salinity, high alkalinity, or low temperature, we develop molecular biology technologies and intelligent analytical methods for systematic microbial genome reconstruction and functional annotation.
+**PKU-EMBL Lab (Environmental Microbiome Biotechnology Lab)** 北京大学环境微生物生物技术实验室 develops a high-throughput pipeline that transforms environmental microbial "Dark Matter" (微生物“暗物质”) into computable knowledge. Focusing on extreme habitats characterized by high salinity, high alkalinity, or low temperature, we develop molecular biology technologies and intelligent analytical methods for systematic microbial genome reconstruction and functional annotation.
 
 1. **Functional genomics** : We develop highly sensitive, deep-learning-enabled methods and supporting algorithms to recover and characterize low-abundance functional guilds and their genomes that are readily missed by conventional workflows. By combining protein and genome language models, we identify novel enzymes, distantly related functional genes, metabolic gene clusters, and environmental adaptation elements that are difficult to detect through traditional homology searches.
 
